@@ -1,0 +1,122 @@
+﻿@import url("layout.css");
+html {
+	height:100%
+}
+body {
+	font-family: "ＭＳ Ｐゴシック", Arial, sans-serif;
+	font-size: medium;
+	color: #000;
+	background-color: #c5d5e5;
+	height:100%
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: "ＭＳ Ｐゴシック", Arial, sans-serif;
+}
+a {
+	color: #4682b4;
+	text-decoration: underline;
+}
+a:hover {
+	color: #79a7cc;
+	text-decoration: underline;
+}
+dl {
+	margin-left: 40px;
+}
+dt {
+	font-size: large;
+	margin: 10px 0;
+}
+
+
+#container {
+	width: 100%;
+	height:100%;
+}
+#masthead {
+	width: 100%;
+	overflow: auto;
+}
+#page_content {
+	position: relative;
+	min-height:90%
+}
+#sidebar {
+	margin-top: 100px;
+	position: relative;
+	float: left;
+	width: 140px;
+}
+#content {
+	margin-left: 140px;
+	padding: 10px;
+	min-height:500px;
+}
+#footer {
+	clear: both;
+	width: 99%;
+	overflow: hidden;
+	padding-top: 1%;
+	padding-right: 0;
+	padding-bottom: 1%;
+	padding-left: 1%;
+}
+/* パンくずリストのスタイル */
+#breadcrumbs ol {
+	margin: 0; /* マージン（上下左右） */
+	padding: 5px; /* パディング（上下、左右） */
+	list-style-type: none; /* リストマーク非表示 */
+	font-size: 100%; /* 文字サイズ */
+}
+/* リスト項目 */
+#breadcrumbs li {
+	display: inline; /* 項目を横並び */
+}
+/* リンクエリア */
+#breadcrumbs li a {
+	padding-right: 5px; /* 右パディング */
+}
+
+/* ナビゲーションのスタイル */
+#sidebar ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#sidebar li {
+	display: block;
+}
+#sidebar a {
+	font-weight: bold;
+	text-decoration: none;
+	/*color: #393939;*/
+	margin: 10%;
+	display: block;
+
+}
+#sidebar a:hover {
+	font-weight: bold;
+	text-decoration: none;
+	/*color: #393939;*/
+
+}
+/* フッターのスタイル */
+#footer p {
+	font-size: x-small;
+}
+#footer a {
+	color: #393939;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #393939;
+	text-decoration: none;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: normal;
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>http://team-shinkailab.ml/</loc>
+  <priority>1.0</priority>
+  <lastmod>2017-11-30T12:53:47+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2017-11-30T12:53:47+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/about/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2017-11-30T12:53:47+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/works/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2017-12-01T15:05:13+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/member/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2017-12-01T15:05:04+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/contact/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2017-11-30T12:53:48+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/links/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2017-12-01T15:05:01+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/works/shinkaikun_v2/index.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2017-11-30T12:53:50+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/works/shinkaikun_v3/index.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2017-12-01T15:05:13+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/works/shinkaikun_x/index.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2017-12-01T15:05:13+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/works/watch/index.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2017-11-30T12:53:52+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/works/soreara/index.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2017-11-30T12:53:51+09:00</lastmod>
+</url>
+<url>
+  <loc>http://team-shinkailab.ml/contact.html</loc>
+  <priority>0.7</priority>
+</url>
+
+</urlset>
